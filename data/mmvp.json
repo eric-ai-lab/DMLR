@@ -1,0 +1,1802 @@
+[
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are the butterfly's wings closer to being open or closed?\nOptions: (a) Open (b) Closed\n",
+    "completion": "(a) Open",
+    "solution": "(a) Open",
+    "image_path": "dataset/mmvp/MMVP Images/1.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are the butterfly's wings closer to being open or closed?\nOptions: (a) Open (b) Closed\n",
+    "completion": "(b) Closed",
+    "solution": "(b) Closed",
+    "image_path": "dataset/mmvp/MMVP Images/2.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the flame of the match more round or thin?\nOptions: (a) Round (b) Thin\n",
+    "completion": "(a) Round",
+    "solution": "(a) Round",
+    "image_path": "dataset/mmvp/MMVP Images/3.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the flame of the match more round or thin?\nOptions: (a) Round (b) Thin\n",
+    "completion": "(b) Thin",
+    "solution": "(b) Thin",
+    "image_path": "dataset/mmvp/MMVP Images/4.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the dog facing left or right from the camera's perspective?\nOptions: (a) Left (b) Right\n",
+    "completion": "(a) Left",
+    "solution": "(a) Left",
+    "image_path": "dataset/mmvp/MMVP Images/5.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the dog facing left or right from the camera's perspective?\nOptions: (a) Left (b) Right\n",
+    "completion": "(b) Right",
+    "solution": "(b) Right",
+    "image_path": "dataset/mmvp/MMVP Images/6.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the school bus driving towards or away from the camera?\nOptions: (a) Towards the camera (b) Away from the camera\n",
+    "completion": "(a) Towards the camera",
+    "solution": "(a) Towards the camera",
+    "image_path": "dataset/mmvp/MMVP Images/7.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the school bus driving towards or away from the camera?\nOptions: (a) Towards the camera (b) Away from the camera\n",
+    "completion": "(b) Away from the camera",
+    "solution": "(b) Away from the camera",
+    "image_path": "dataset/mmvp/MMVP Images/8.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Can you see the key \"Z\" in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/9.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Can you see the key \"Z\" in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/10.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Has the peacock opened its tail?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/11.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Has the peacock opened its tail?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/12.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the image more likely of a single ear of corn or multiple ears\nOptions: (a) Single (b) Multiple\n",
+    "completion": "(a) Single",
+    "solution": "(a) Single",
+    "image_path": "dataset/mmvp/MMVP Images/13.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the image more likely of a single ear of corn or multiple ears\nOptions: (a) Single (b) Multiple\n",
+    "completion": "(b) Multiple",
+    "solution": "(b) Multiple",
+    "image_path": "dataset/mmvp/MMVP Images/14.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is there a shadow on the flower?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/15.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is there a shadow on the flower?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/16.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the front of the school bus protruding?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/17.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the front of the school bus protruding?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/18.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Can you see the dorsal fin of the animal?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/19.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Can you see the dorsal fin of the animal?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/20.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the duck's entire beak visible in the picture?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/21.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the duck's entire beak visible in the picture?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/22.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: From which angle is this image taken?\nOptions: (a) Front (b) Side\n",
+    "completion": "(a) Front",
+    "solution": "(a) Front",
+    "image_path": "dataset/mmvp/MMVP Images/23.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: From which angle is this image taken?\nOptions: (a) Front (b) Side\n",
+    "completion": "(b) Side",
+    "solution": "(b) Side",
+    "image_path": "dataset/mmvp/MMVP Images/24.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: What color is the chicken's body?\nOptions: (a) Black (b) Red\n",
+    "completion": "(a) Black",
+    "solution": "(a) Black",
+    "image_path": "dataset/mmvp/MMVP Images/25.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: What color is the chicken's body?\nOptions: (a) Black (b) Red\n",
+    "completion": "(b) Red",
+    "solution": "(b) Red",
+    "image_path": "dataset/mmvp/MMVP Images/26.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the peacock's head visible in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/27.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the peacock's head visible in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/28.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Based on the image, is the following statement correct: We cannot see the window on the school bus?\nOptions: (a) Correct (b) Incorrect\n",
+    "completion": "(a) Correct",
+    "solution": "(a) Correct",
+    "image_path": "dataset/mmvp/MMVP Images/29.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Based on the image, is the following statement correct: We cannot see the window on the school bus?\nOptions: (a) Correct (b) Incorrect\n",
+    "completion": "(b) Incorrect",
+    "solution": "(b) Incorrect",
+    "image_path": "dataset/mmvp/MMVP Images/30.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the wind blowing the flag?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/31.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the wind blowing the flag?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/32.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the butterfly's abdomen visible in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/33.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the butterfly's abdomen visible in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/34.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Do the vegetables have spikes?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/35.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Do the vegetables have spikes?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/36.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: What color are the flowers in the background?\nOptions: (a) Pink (b) Violet\n",
+    "completion": "(a) Pink",
+    "solution": "(a) Pink",
+    "image_path": "dataset/mmvp/MMVP Images/37.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: What color are the flowers in the background?\nOptions: (a) Pink (b) Violet\n",
+    "completion": "(b) Violet",
+    "solution": "(b) Violet",
+    "image_path": "dataset/mmvp/MMVP Images/38.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the duck floating?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/39.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the duck floating?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/40.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Based on the image, is the following statement correct: The spider has 8 legs?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/41.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Based on the image, is the following statement correct: The spider has 8 legs?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/42.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are the wheels of the school bus visible in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/43.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are the wheels of the school bus visible in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/44.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the shark's belly visible in this image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/45.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the shark's belly visible in this image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/46.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: How many spots are on the animal in the image?\nOptions: (a) 5 (b) 6\n",
+    "completion": "(a) 5",
+    "solution": "(a) 5",
+    "image_path": "dataset/mmvp/MMVP Images/47.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: How many spots are on the animal in the image?\nOptions: (a) 5 (b) 6\n",
+    "completion": "(b) 6",
+    "solution": "(b) 6",
+    "image_path": "dataset/mmvp/MMVP Images/48.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are the arrow keys visible in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/49.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are the arrow keys visible in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/50.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the elephant's trunk curled in the picture?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/51.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the elephant's trunk curled in the picture?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/52.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the number of pills in the image in the range of countable?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/53.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the number of pills in the image in the range of countable?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/54.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Can you see stems of bananas in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/55.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Can you see stems of bananas in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/56.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the crocodile submerged in the water?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/57.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the crocodile submerged in the water?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/58.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the lock locked to the chain-linked fence?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/59.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the lock locked to the chain-linked fence?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/60.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Can you see letter \"J\" in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/61.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Can you see letter \"J\" in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/62.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the following statement correct: In the image, there is one daisy that is under the shadow of a taller daisy.\nOptions: (a) Correct (b) Incorrect\n",
+    "completion": "(a) Correct",
+    "solution": "(a) Correct",
+    "image_path": "dataset/mmvp/MMVP Images/63.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the following statement correct: In the image, there is one daisy that is under the shadow of a taller daisy.\nOptions: (a) Correct (b) Incorrect\n",
+    "completion": "(b) Incorrect",
+    "solution": "(b) Incorrect",
+    "image_path": "dataset/mmvp/MMVP Images/64.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the following statement correct: There is no letter D on this image.\nOptions: (a) Correct (b) Incorrect\n",
+    "completion": "(a) Correct",
+    "solution": "(a) Correct",
+    "image_path": "dataset/mmvp/MMVP Images/65.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the following statement correct: There is no letter D on this image.\nOptions: (a) Correct (b) Incorrect\n",
+    "completion": "(b) Incorrect",
+    "solution": "(b) Incorrect",
+    "image_path": "dataset/mmvp/MMVP Images/66.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are there any clouds?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/67.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are there any clouds?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/68.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Did the snake stick out its tongue and touch its skin?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/69.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Did the snake stick out its tongue and touch its skin?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/70.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the lock locked or unlocked?\nOptions: (a) Locked (b) Unlocked\n",
+    "completion": "(a) Locked",
+    "solution": "(a) Locked",
+    "image_path": "dataset/mmvp/MMVP Images/71.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the lock locked or unlocked?\nOptions: (a) Locked (b) Unlocked\n",
+    "completion": "(b) Unlocked",
+    "solution": "(b) Unlocked",
+    "image_path": "dataset/mmvp/MMVP Images/72.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the ground wet?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/73.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the ground wet?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/74.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Do you see this flower from the top or the side?\nOptions: (a) Top (b) Side\n",
+    "completion": "(a) Top",
+    "solution": "(a) Top",
+    "image_path": "dataset/mmvp/MMVP Images/75.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Do you see this flower from the top or the side?\nOptions: (a) Top (b) Side\n",
+    "completion": "(b) Side",
+    "solution": "(b) Side",
+    "image_path": "dataset/mmvp/MMVP Images/76.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Can you see the caudal fin of the shark in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/77.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Can you see the caudal fin of the shark in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/78.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the image, is the snake's head oriented facing upwards or directed forwards?\nOptions: (a) Upwards (b) Forward\n",
+    "completion": "(a) Upwards",
+    "solution": "(a) Upwards",
+    "image_path": "dataset/mmvp/MMVP Images/79.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the image, is the snake's head oriented facing upwards or directed forwards?\nOptions: (a) Upwards (b) Forward\n",
+    "completion": "(b) Forward",
+    "solution": "(b) Forward",
+    "image_path": "dataset/mmvp/MMVP Images/80.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is this a hammerhead shark?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/81.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is this a hammerhead shark?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/82.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the door of the truck cab open?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/83.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the door of the truck cab open?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/84.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are the ears of the dog erect or drooping?\nOptions: (a) Erect (b) Drooping\n",
+    "completion": "(a) Erect",
+    "solution": "(a) Erect",
+    "image_path": "dataset/mmvp/MMVP Images/85.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are the ears of the dog erect or drooping?\nOptions: (a) Erect (b) Drooping\n",
+    "completion": "(b) Drooping",
+    "solution": "(b) Drooping",
+    "image_path": "dataset/mmvp/MMVP Images/86.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is there a hand using the mouse in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/87.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is there a hand using the mouse in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/88.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Can you see people in this image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/89.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Can you see people in this image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/90.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are there any words displayed on the vehicle's lightbar?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/91.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are there any words displayed on the vehicle's lightbar?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/92.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is there any accessory on the wrists?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/93.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is there any accessory on the wrists?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/94.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: From the camera's perspective, is the spider web very dense or relatively sparse?\nOptions: (a) Very dense (b) Relatively sparse\n",
+    "completion": "(a) Very dense",
+    "solution": "(a) Very dense",
+    "image_path": "dataset/mmvp/MMVP Images/95.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: From the camera's perspective, is the spider web very dense or relatively sparse?\nOptions: (a) Very dense (b) Relatively sparse\n",
+    "completion": "(b) Relatively sparse",
+    "solution": "(b) Relatively sparse",
+    "image_path": "dataset/mmvp/MMVP Images/96.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Does the keyboard have a backlight?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/97.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Does the keyboard have a backlight?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/98.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Does the elephant have long or short tusks?\nOptions: (a) Long (b) Short\n",
+    "completion": "(a) Long",
+    "solution": "(a) Long",
+    "image_path": "dataset/mmvp/MMVP Images/99.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Does the elephant have long or short tusks?\nOptions: (a) Long (b) Short\n",
+    "completion": "(b) Short",
+    "solution": "(b) Short",
+    "image_path": "dataset/mmvp/MMVP Images/100.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: What is the woman more likely to do?\nOptions: (a) Bump (b) Set\n",
+    "completion": "(a) Bump",
+    "solution": "(a) Bump",
+    "image_path": "dataset/mmvp/MMVP Images/101.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: What is the woman more likely to do?\nOptions: (a) Bump (b) Set\n",
+    "completion": "(b) Set",
+    "solution": "(b) Set",
+    "image_path": "dataset/mmvp/MMVP Images/102.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the needle pointing up or down?\nOptions: (a) Up (b) Down\n",
+    "completion": "(a) Up",
+    "solution": "(a) Up",
+    "image_path": "dataset/mmvp/MMVP Images/103.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the needle pointing up or down?\nOptions: (a) Up (b) Down\n",
+    "completion": "(b) Down",
+    "solution": "(b) Down",
+    "image_path": "dataset/mmvp/MMVP Images/104.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the camera positioned at eye level or looking down from above?\nOptions: (a) Eye level (b) Above\n",
+    "completion": "(a) Eye level",
+    "solution": "(a) Eye level",
+    "image_path": "dataset/mmvp/MMVP Images/105.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the camera positioned at eye level or looking down from above?\nOptions: (a) Eye level (b) Above\n",
+    "completion": "(b) Above",
+    "solution": "(b) Above",
+    "image_path": "dataset/mmvp/MMVP Images/106.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are the butterfly's feet visible?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/107.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are the butterfly's feet visible?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/108.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are the bird's wings flapping upward or downward?\nOptions: (a) Upward (b) Downward\n",
+    "completion": "(a) Upward",
+    "solution": "(a) Upward",
+    "image_path": "dataset/mmvp/MMVP Images/109.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are the bird's wings flapping upward or downward?\nOptions: (a) Upward (b) Downward\n",
+    "completion": "(b) Downward",
+    "solution": "(b) Downward",
+    "image_path": "dataset/mmvp/MMVP Images/110.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the end of the elephant's trunk pointing inward or outward?\nOptions: (a) Inward (b) Outward\n",
+    "completion": "(a) Inward",
+    "solution": "(a) Inward",
+    "image_path": "dataset/mmvp/MMVP Images/111.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the end of the elephant's trunk pointing inward or outward?\nOptions: (a) Inward (b) Outward\n",
+    "completion": "(b) Outward",
+    "solution": "(b) Outward",
+    "image_path": "dataset/mmvp/MMVP Images/112.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Do you see any window in this image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/113.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Do you see any window in this image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/114.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the snail in the picture facing the camera or away from the camera?\nOptions: (a) Away from the camera (b) Facing the camera\n",
+    "completion": "(a) Away from the camera",
+    "solution": "(a) Away from the camera",
+    "image_path": "dataset/mmvp/MMVP Images/115.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the snail in the picture facing the camera or away from the camera?\nOptions: (a) Away from the camera (b) Facing the camera\n",
+    "completion": "(b) Facing the camera",
+    "solution": "(b) Facing the camera",
+    "image_path": "dataset/mmvp/MMVP Images/116.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: How many eyes of the cat can you see in the picture?\nOptions: (a) 1 (b) 2\n",
+    "completion": "(a) 1",
+    "solution": "(a) 1",
+    "image_path": "dataset/mmvp/MMVP Images/117.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: How many eyes of the cat can you see in the picture?\nOptions: (a) 1 (b) 2\n",
+    "completion": "(b) 2",
+    "solution": "(b) 2",
+    "image_path": "dataset/mmvp/MMVP Images/118.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In this image, how many eyes can you see on the animal?\nOptions: (a) 1 (b) 2\n",
+    "completion": "(a) 1",
+    "solution": "(a) 1",
+    "image_path": "dataset/mmvp/MMVP Images/119.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In this image, how many eyes can you see on the animal?\nOptions: (a) 1 (b) 2\n",
+    "completion": "(b) 2",
+    "solution": "(b) 2",
+    "image_path": "dataset/mmvp/MMVP Images/120.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Does this corn have white kernels?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/121.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Does this corn have white kernels?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/122.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is this duck facing left or right from the camera's perspective?\nOptions: (a) Left (b) Right\n",
+    "completion": "(a) Left",
+    "solution": "(a) Left",
+    "image_path": "dataset/mmvp/MMVP Images/123.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is this duck facing left or right from the camera's perspective?\nOptions: (a) Left (b) Right\n",
+    "completion": "(b) Right",
+    "solution": "(b) Right",
+    "image_path": "dataset/mmvp/MMVP Images/124.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Can you see a door in this image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/125.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Can you see a door in this image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/126.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the flower's center protruding or indented?\nOptions: (a) Protruding (b) Indented\n",
+    "completion": "(a) Protruding",
+    "solution": "(a) Protruding",
+    "image_path": "dataset/mmvp/MMVP Images/127.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the flower's center protruding or indented?\nOptions: (a) Protruding (b) Indented\n",
+    "completion": "(b) Indented",
+    "solution": "(b) Indented",
+    "image_path": "dataset/mmvp/MMVP Images/128.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: From the camera's perspective, are the words \"SCHOOL BUS\" in the picture facing straight or oriented at an angle?\nOptions: (a) Directly towards the camera (b) At an angle\n",
+    "completion": "(a) Directly towards the camera",
+    "solution": "(a) Directly towards the camera",
+    "image_path": "dataset/mmvp/MMVP Images/129.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: From the camera's perspective, are the words \"SCHOOL BUS\" in the picture facing straight or oriented at an angle?\nOptions: (a) Directly towards the camera (b) At an angle\n",
+    "completion": "(b) At an angle",
+    "solution": "(b) At an angle",
+    "image_path": "dataset/mmvp/MMVP Images/130.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Where is the yellow animal's head lying in this image?\nOptions: (a) Floor (b) Carpet\n",
+    "completion": "(a) Floor",
+    "solution": "(a) Floor",
+    "image_path": "dataset/mmvp/MMVP Images/131.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Where is the yellow animal's head lying in this image?\nOptions: (a) Floor (b) Carpet\n",
+    "completion": "(b) Carpet",
+    "solution": "(b) Carpet",
+    "image_path": "dataset/mmvp/MMVP Images/132.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: What does the center button say?\nOptions: (a) OK/SELECT (b) OK\n",
+    "completion": "(a) OK/SELECT",
+    "solution": "(a) OK/SELECT",
+    "image_path": "dataset/mmvp/MMVP Images/133.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: What does the center button say?\nOptions: (a) OK/SELECT (b) OK\n",
+    "completion": "(b) OK",
+    "solution": "(b) OK",
+    "image_path": "dataset/mmvp/MMVP Images/134.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: How many cup(s) of drink are there in the image?\nOptions: (a) 1 (b) 2\n",
+    "completion": "(a) 1",
+    "solution": "(a) 1",
+    "image_path": "dataset/mmvp/MMVP Images/135.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: How many cup(s) of drink are there in the image?\nOptions: (a) 1 (b) 2\n",
+    "completion": "(b) 2",
+    "solution": "(b) 2",
+    "image_path": "dataset/mmvp/MMVP Images/136.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the picture, how is the snake primarily positioned?\nOptions: (a) Coiled (b) Head extended\n",
+    "completion": "(a) Coiled",
+    "solution": "(a) Coiled",
+    "image_path": "dataset/mmvp/MMVP Images/137.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the picture, how is the snake primarily positioned?\nOptions: (a) Coiled (b) Head extended\n",
+    "completion": "(b) Head extended",
+    "solution": "(b) Head extended",
+    "image_path": "dataset/mmvp/MMVP Images/138.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Can you see the side windows of the vehicles?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/139.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Can you see the side windows of the vehicles?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/140.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the elephant's trunk raised or lowered?\nOptions: (a) Raised (b) Lowered\n",
+    "completion": "(a) Raised",
+    "solution": "(a) Raised",
+    "image_path": "dataset/mmvp/MMVP Images/141.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the elephant's trunk raised or lowered?\nOptions: (a) Raised (b) Lowered\n",
+    "completion": "(b) Lowered",
+    "solution": "(b) Lowered",
+    "image_path": "dataset/mmvp/MMVP Images/142.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the ladybug positioned upright or upside down?\nOptions: (a) Upright (b) Upside down\n",
+    "completion": "(a) Upright",
+    "solution": "(a) Upright",
+    "image_path": "dataset/mmvp/MMVP Images/143.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the ladybug positioned upright or upside down?\nOptions: (a) Upright (b) Upside down\n",
+    "completion": "(b) Upside down",
+    "solution": "(b) Upside down",
+    "image_path": "dataset/mmvp/MMVP Images/144.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the photo taken looking down from above or looking up from below?\nOptions: (a) Looking down from above (b) Looking up from below\n",
+    "completion": "(a) Looking down from above",
+    "solution": "(a) Looking down from above",
+    "image_path": "dataset/mmvp/MMVP Images/145.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the photo taken looking down from above or looking up from below?\nOptions: (a) Looking down from above (b) Looking up from below\n",
+    "completion": "(b) Looking up from below",
+    "solution": "(b) Looking up from below",
+    "image_path": "dataset/mmvp/MMVP Images/146.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the picture, is the snake's head visible or not visible?\nOptions: (a) Visible (b) Not visible\n",
+    "completion": "(a) Visible",
+    "solution": "(a) Visible",
+    "image_path": "dataset/mmvp/MMVP Images/147.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the picture, is the snake's head visible or not visible?\nOptions: (a) Visible (b) Not visible\n",
+    "completion": "(b) Not visible",
+    "solution": "(b) Not visible",
+    "image_path": "dataset/mmvp/MMVP Images/148.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the piano's back panel on the left or right side?\nOptions: (a) Left (b) Right\n",
+    "completion": "(a) Left",
+    "solution": "(a) Left",
+    "image_path": "dataset/mmvp/MMVP Images/149.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the piano's back panel on the left or right side?\nOptions: (a) Left (b) Right\n",
+    "completion": "(b) Right",
+    "solution": "(b) Right",
+    "image_path": "dataset/mmvp/MMVP Images/150.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: The image captures a woman running from:\nOptions: (a) Back view (b) Side view\n",
+    "completion": "(a) Back view",
+    "solution": "(a) Back view",
+    "image_path": "dataset/mmvp/MMVP Images/151.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: The image captures a woman running from:\nOptions: (a) Back view (b) Side view\n",
+    "completion": "(b) Side view",
+    "solution": "(b) Side view",
+    "image_path": "dataset/mmvp/MMVP Images/152.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: How many red apples are there in the image?\nOptions: (a) One (b) More than one\n",
+    "completion": "(a) One",
+    "solution": "(a) One",
+    "image_path": "dataset/mmvp/MMVP Images/153.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: How many red apples are there in the image?\nOptions: (a) One (b) More than one\n",
+    "completion": "(b) More than one",
+    "solution": "(b) More than one",
+    "image_path": "dataset/mmvp/MMVP Images/154.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the vase beside the bedside table or on the windowsill?\nOptions: (a) Beside the bedside Table (b) On the Windowsill\n",
+    "completion": "(a) Beside the bedside Table",
+    "solution": "(a) Beside the bedside Table",
+    "image_path": "dataset/mmvp/MMVP Images/155.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the vase beside the bedside table or on the windowsill?\nOptions: (a) Beside the bedside Table (b) On the Windowsill\n",
+    "completion": "(b) On the Windowsill",
+    "solution": "(b) On the Windowsill",
+    "image_path": "dataset/mmvp/MMVP Images/156.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the frame at the front of the motorcycle primarily silver or black in color?\nOptions: (a) Silver (b) Black\n",
+    "completion": "(a) Silver",
+    "solution": "(a) Silver",
+    "image_path": "dataset/mmvp/MMVP Images/157.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the frame at the front of the motorcycle primarily silver or black in color?\nOptions: (a) Silver (b) Black\n",
+    "completion": "(b) Black",
+    "solution": "(b) Black",
+    "image_path": "dataset/mmvp/MMVP Images/158.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: For the people operating the machine in the image, can you see one arm or both arms?\nOptions: (a) One arm (b) Both arms\n",
+    "completion": "(a) One arm",
+    "solution": "(a) One arm",
+    "image_path": "dataset/mmvp/MMVP Images/159.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: For the people operating the machine in the image, can you see one arm or both arms?\nOptions: (a) One arm (b) Both arms\n",
+    "completion": "(b) Both arms",
+    "solution": "(b) Both arms",
+    "image_path": "dataset/mmvp/MMVP Images/160.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the minute hand of the clock closer to 12 or closer to 1?\nOptions: (a) 12 (b) 1\n",
+    "completion": "(a) 12",
+    "solution": "(a) 12",
+    "image_path": "dataset/mmvp/MMVP Images/161.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the minute hand of the clock closer to 12 or closer to 1?\nOptions: (a) 12 (b) 1\n",
+    "completion": "(b) 1",
+    "solution": "(b) 1",
+    "image_path": "dataset/mmvp/MMVP Images/162.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the Christmas tree positioned in front of a large window or in front of a wall situated between two windows?\nOptions: (a) In front of a large window (b) In front of a wall between two windows\n",
+    "completion": "(a) In front of a large window",
+    "solution": "(a) In front of a large window",
+    "image_path": "dataset/mmvp/MMVP Images/163.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the Christmas tree positioned in front of a large window or in front of a wall situated between two windows?\nOptions: (a) In front of a large window (b) In front of a wall between two windows\n",
+    "completion": "(b) In front of a wall between two windows",
+    "solution": "(b) In front of a wall between two windows",
+    "image_path": "dataset/mmvp/MMVP Images/164.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In this image, are the berries placed\nOptions: (a) On a dish (b) In bowls of yogurts\n",
+    "completion": "(a) On a dish",
+    "solution": "(a) On a dish",
+    "image_path": "dataset/mmvp/MMVP Images/165.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In this image, are the berries placed\nOptions: (a) On a dish (b) In bowls of yogurts\n",
+    "completion": "(b) In bowls of yogurts",
+    "solution": "(b) In bowls of yogurts",
+    "image_path": "dataset/mmvp/MMVP Images/166.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are some fruits cut open or are all the fruits uncut?\nOptions: (a) Some are cut open (b) All are uncut\n",
+    "completion": "(a) Some are cut open",
+    "solution": "(a) Some are cut open",
+    "image_path": "dataset/mmvp/MMVP Images/167.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are some fruits cut open or are all the fruits uncut?\nOptions: (a) Some are cut open (b) All are uncut\n",
+    "completion": "(b) All are uncut",
+    "solution": "(b) All are uncut",
+    "image_path": "dataset/mmvp/MMVP Images/168.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is there a knee visible in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/169.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is there a knee visible in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/170.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Does the snowman in the picture have a mouth?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/171.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Does the snowman in the picture have a mouth?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/172.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the decoration on the Easter egg flat or raised?\nOptions: (a) Flat (b) Raised\n",
+    "completion": "(a) Flat",
+    "solution": "(a) Flat",
+    "image_path": "dataset/mmvp/MMVP Images/173.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the decoration on the Easter egg flat or raised?\nOptions: (a) Flat (b) Raised\n",
+    "completion": "(b) Raised",
+    "solution": "(b) Raised",
+    "image_path": "dataset/mmvp/MMVP Images/174.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the image, is the nail polish on the toes dark or light in color?\nOptions: (a) Dark (b) Light\n",
+    "completion": "(a) Dark",
+    "solution": "(a) Dark",
+    "image_path": "dataset/mmvp/MMVP Images/175.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the image, is the nail polish on the toes dark or light in color?\nOptions: (a) Dark (b) Light\n",
+    "completion": "(b) Light",
+    "solution": "(b) Light",
+    "image_path": "dataset/mmvp/MMVP Images/176.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the picture, is the person facing the ocean or turned sideways to the ocean?\nOptions: (a) Facing the ocean (b) Turned sideways to the ocean\n",
+    "completion": "(a) Facing the ocean",
+    "solution": "(a) Facing the ocean",
+    "image_path": "dataset/mmvp/MMVP Images/177.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the picture, is the person facing the ocean or turned sideways to the ocean?\nOptions: (a) Facing the ocean (b) Turned sideways to the ocean\n",
+    "completion": "(b) Turned sideways to the ocean",
+    "solution": "(b) Turned sideways to the ocean",
+    "image_path": "dataset/mmvp/MMVP Images/178.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: How many wheels can you see in the image?\nOptions: (a) 1 (b) 2\n",
+    "completion": "(a) 1",
+    "solution": "(a) 1",
+    "image_path": "dataset/mmvp/MMVP Images/179.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: How many wheels can you see in the image?\nOptions: (a) 1 (b) 2\n",
+    "completion": "(b) 2",
+    "solution": "(b) 2",
+    "image_path": "dataset/mmvp/MMVP Images/180.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the stripe in the middle of the car blue or white?\nOptions: (a) Blue (b) White\n",
+    "completion": "(a) Blue",
+    "solution": "(a) Blue",
+    "image_path": "dataset/mmvp/MMVP Images/181.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the stripe in the middle of the car blue or white?\nOptions: (a) Blue (b) White\n",
+    "completion": "(b) White",
+    "solution": "(b) White",
+    "image_path": "dataset/mmvp/MMVP Images/182.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are the teddy bears holding hands or leaning against each other?\nOptions: (a) Holding hands (b) Leaning against\n",
+    "completion": "(a) Holding hands",
+    "solution": "(a) Holding hands",
+    "image_path": "dataset/mmvp/MMVP Images/183.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are the teddy bears holding hands or leaning against each other?\nOptions: (a) Holding hands (b) Leaning against\n",
+    "completion": "(b) Leaning against",
+    "solution": "(b) Leaning against",
+    "image_path": "dataset/mmvp/MMVP Images/184.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the person in the picture already standing on the weighing scale?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/185.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the person in the picture already standing on the weighing scale?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/186.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the picture, is the person stretching out one arm or both arms above their head?\nOptions: (a) One arm (b) Both arms\n",
+    "completion": "(a) One arm",
+    "solution": "(a) One arm",
+    "image_path": "dataset/mmvp/MMVP Images/187.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the picture, is the person stretching out one arm or both arms above their head?\nOptions: (a) One arm (b) Both arms\n",
+    "completion": "(b) Both arms",
+    "solution": "(b) Both arms",
+    "image_path": "dataset/mmvp/MMVP Images/188.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the person in the picture on the grass or on the gravel path?\nOptions: (a) Grass (b) Gravel path\n",
+    "completion": "(a) Grass",
+    "solution": "(a) Grass",
+    "image_path": "dataset/mmvp/MMVP Images/189.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the person in the picture on the grass or on the gravel path?\nOptions: (a) Grass (b) Gravel path\n",
+    "completion": "(b) Gravel path",
+    "solution": "(b) Gravel path",
+    "image_path": "dataset/mmvp/MMVP Images/190.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is there a flower next to the Easter egg in the picture?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/191.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is there a flower next to the Easter egg in the picture?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/192.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are these vegetables placed on the floor or on the soil?\nOptions: (a) Floor (b) Soil\n",
+    "completion": "(a) Floor",
+    "solution": "(a) Floor",
+    "image_path": "dataset/mmvp/MMVP Images/193.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are these vegetables placed on the floor or on the soil?\nOptions: (a) Floor (b) Soil\n",
+    "completion": "(b) Soil",
+    "solution": "(b) Soil",
+    "image_path": "dataset/mmvp/MMVP Images/194.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are juice and all carrots on the same surface?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/195.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are juice and all carrots on the same surface?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/196.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the person weighing themselves barefoot?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/197.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the person weighing themselves barefoot?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/198.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Which type of eggs are in the corner of the picture?\nOptions: (a) Quail eggs (b) Chicken eggs\n",
+    "completion": "(a) Quail eggs",
+    "solution": "(a) Quail eggs",
+    "image_path": "dataset/mmvp/MMVP Images/199.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Which type of eggs are in the corner of the picture?\nOptions: (a) Quail eggs (b) Chicken eggs\n",
+    "completion": "(b) Chicken eggs",
+    "solution": "(b) Chicken eggs",
+    "image_path": "dataset/mmvp/MMVP Images/200.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: What are the words in the image:\nOptions: (a) \"Happy Easter\" (b) \"Happy Easter!\"\n",
+    "completion": "(a) \"Happy Easter\"",
+    "solution": "(a) \"Happy Easter\"",
+    "image_path": "dataset/mmvp/MMVP Images/201.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: What are the words in the image:\nOptions: (a) \"Happy Easter\" (b) \"Happy Easter!\"\n",
+    "completion": "(b) \"Happy Easter!\"",
+    "solution": "(b) \"Happy Easter!\"",
+    "image_path": "dataset/mmvp/MMVP Images/202.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are these oranges hanging on the tree?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/203.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are these oranges hanging on the tree?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/204.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the coffee cup made of glass?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/205.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the coffee cup made of glass?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/206.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the bell pepper in the picture red or yellow?\nOptions: (a) Red (b) Yellow\n",
+    "completion": "(a) Red",
+    "solution": "(a) Red",
+    "image_path": "dataset/mmvp/MMVP Images/207.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the bell pepper in the picture red or yellow?\nOptions: (a) Red (b) Yellow\n",
+    "completion": "(b) Yellow",
+    "solution": "(b) Yellow",
+    "image_path": "dataset/mmvp/MMVP Images/208.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is there an orange with leaves next to the cup?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/209.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is there an orange with leaves next to the cup?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/210.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the heart-shaped object resting on the palm or being held by the fingers?\nOptions: (a) Palm (b) Fingers\n",
+    "completion": "(a) Palm",
+    "solution": "(a) Palm",
+    "image_path": "dataset/mmvp/MMVP Images/211.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the heart-shaped object resting on the palm or being held by the fingers?\nOptions: (a) Palm (b) Fingers\n",
+    "completion": "(b) Fingers",
+    "solution": "(b) Fingers",
+    "image_path": "dataset/mmvp/MMVP Images/212.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Does the snowman have arms made of branches?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/213.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Does the snowman have arms made of branches?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/214.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are there black stripes on the roof of the car?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/215.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are there black stripes on the roof of the car?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/216.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the knife laid flat or standing up?\nOptions: (a) Flat (b) Standing up\n",
+    "completion": "(a) Flat",
+    "solution": "(a) Flat",
+    "image_path": "dataset/mmvp/MMVP Images/217.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the knife laid flat or standing up?\nOptions: (a) Flat (b) Standing up\n",
+    "completion": "(b) Standing up",
+    "solution": "(b) Standing up",
+    "image_path": "dataset/mmvp/MMVP Images/218.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the person in the image running towards or away from the camera?\nOptions: (a) Towards (b) Away from\n",
+    "completion": "(a) Towards",
+    "solution": "(a) Towards",
+    "image_path": "dataset/mmvp/MMVP Images/219.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the person in the image running towards or away from the camera?\nOptions: (a) Towards (b) Away from\n",
+    "completion": "(b) Away from",
+    "solution": "(b) Away from",
+    "image_path": "dataset/mmvp/MMVP Images/220.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the photo, is one of the man's hands blocked by the woman?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/221.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the photo, is one of the man's hands blocked by the woman?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/222.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is there a pomegranate in the picture?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/223.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is there a pomegranate in the picture?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/224.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are all the cups and bottles in the picture the same height?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/225.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are all the cups and bottles in the picture the same height?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/226.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Does the person in the picture have something in their hand?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/227.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Does the person in the picture have something in their hand?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/228.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Do all the bottles in the picture face the same direction?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/229.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Do all the bottles in the picture face the same direction?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/230.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are all easter eggs placed in a container (e.g nest, basket)?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/231.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are all easter eggs placed in a container (e.g nest, basket)?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/232.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the sky in the background dark blue or light blue?\nOptions: (a) Dark blue (b) Light blue\n",
+    "completion": "(a) Dark blue",
+    "solution": "(a) Dark blue",
+    "image_path": "dataset/mmvp/MMVP Images/233.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the sky in the background dark blue or light blue?\nOptions: (a) Dark blue (b) Light blue\n",
+    "completion": "(b) Light blue",
+    "solution": "(b) Light blue",
+    "image_path": "dataset/mmvp/MMVP Images/234.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Do the individuals in the picture face the front or the back?\nOptions: (a) Front (b) Back\n",
+    "completion": "(a) Front",
+    "solution": "(a) Front",
+    "image_path": "dataset/mmvp/MMVP Images/235.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Do the individuals in the picture face the front or the back?\nOptions: (a) Front (b) Back\n",
+    "completion": "(b) Back",
+    "solution": "(b) Back",
+    "image_path": "dataset/mmvp/MMVP Images/236.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the ground completely covered by red fallen leaves?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/237.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the ground completely covered by red fallen leaves?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/238.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are the leather shoes placed side by side or is one on top of the other?\nOptions: (a) Side by side (b) One on top of the other\n",
+    "completion": "(a) Side by side",
+    "solution": "(a) Side by side",
+    "image_path": "dataset/mmvp/MMVP Images/239.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are the leather shoes placed side by side or is one on top of the other?\nOptions: (a) Side by side (b) One on top of the other\n",
+    "completion": "(b) One on top of the other",
+    "solution": "(b) One on top of the other",
+    "image_path": "dataset/mmvp/MMVP Images/240.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the photo taken directly above the coffee or from the side?\nOptions: (a) Above (b) From the side\n",
+    "completion": "(a) Above",
+    "solution": "(a) Above",
+    "image_path": "dataset/mmvp/MMVP Images/241.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the photo taken directly above the coffee or from the side?\nOptions: (a) Above (b) From the side\n",
+    "completion": "(b) From the side",
+    "solution": "(b) From the side",
+    "image_path": "dataset/mmvp/MMVP Images/242.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the rabbit in the image facing left or right?\nOptions: (a) Left (b) Right\n",
+    "completion": "(a) Left",
+    "solution": "(a) Left",
+    "image_path": "dataset/mmvp/MMVP Images/243.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the rabbit in the image facing left or right?\nOptions: (a) Left (b) Right\n",
+    "completion": "(b) Right",
+    "solution": "(b) Right",
+    "image_path": "dataset/mmvp/MMVP Images/244.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the elderly person in the picture standing or sitting?\nOptions: (a) Standing (b) Sitting\n",
+    "completion": "(a) Standing",
+    "solution": "(a) Standing",
+    "image_path": "dataset/mmvp/MMVP Images/245.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the elderly person in the picture standing or sitting?\nOptions: (a) Standing (b) Sitting\n",
+    "completion": "(b) Sitting",
+    "solution": "(b) Sitting",
+    "image_path": "dataset/mmvp/MMVP Images/246.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are there any fruits or vegetables in the heart-shaped part of the picture?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/247.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are there any fruits or vegetables in the heart-shaped part of the picture?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/248.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the very top of the cake strawberries or cream?\nOptions: (a) Strawberries (b) Cream\n",
+    "completion": "(a) Strawberries",
+    "solution": "(a) Strawberries",
+    "image_path": "dataset/mmvp/MMVP Images/249.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the very top of the cake strawberries or cream?\nOptions: (a) Strawberries (b) Cream\n",
+    "completion": "(b) Cream",
+    "solution": "(b) Cream",
+    "image_path": "dataset/mmvp/MMVP Images/250.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the beverage in the picture contained in a mug or a glass?\nOptions: (a) Mug (b) Glass\n",
+    "completion": "(a) Mug",
+    "solution": "(a) Mug",
+    "image_path": "dataset/mmvp/MMVP Images/251.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the beverage in the picture contained in a mug or a glass?\nOptions: (a) Mug (b) Glass\n",
+    "completion": "(b) Glass",
+    "solution": "(b) Glass",
+    "image_path": "dataset/mmvp/MMVP Images/252.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the design in the picture Santa Claus or a snowman?\nOptions: (a) Santa Claus (b) Snowman\n",
+    "completion": "(a) Santa Claus",
+    "solution": "(a) Santa Claus",
+    "image_path": "dataset/mmvp/MMVP Images/253.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the design in the picture Santa Claus or a snowman?\nOptions: (a) Santa Claus (b) Snowman\n",
+    "completion": "(b) Snowman",
+    "solution": "(b) Snowman",
+    "image_path": "dataset/mmvp/MMVP Images/254.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are there cookies stacked on top of other cookies?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/255.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are there cookies stacked on top of other cookies?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/256.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is there a lemon inside the drink in the cup or are all the lemons outside the drink?\nOptions: (a) There is one inside (b) All are outside\n",
+    "completion": "(a) There is one inside",
+    "solution": "(a) There is one inside",
+    "image_path": "dataset/mmvp/MMVP Images/257.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is there a lemon inside the drink in the cup or are all the lemons outside the drink?\nOptions: (a) There is one inside (b) All are outside\n",
+    "completion": "(b) All are outside",
+    "solution": "(b) All are outside",
+    "image_path": "dataset/mmvp/MMVP Images/258.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the picture, are the elderly people moving to the left or to the right?\nOptions: (a) Left (b) Right\n",
+    "completion": "(a) Left",
+    "solution": "(a) Left",
+    "image_path": "dataset/mmvp/MMVP Images/259.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the picture, are the elderly people moving to the left or to the right?\nOptions: (a) Left (b) Right\n",
+    "completion": "(b) Right",
+    "solution": "(b) Right",
+    "image_path": "dataset/mmvp/MMVP Images/260.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the person in the picture sitting on a black or white chair?\nOptions: (a) Black (b) White\n",
+    "completion": "(a) Black",
+    "solution": "(a) Black",
+    "image_path": "dataset/mmvp/MMVP Images/261.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the person in the picture sitting on a black or white chair?\nOptions: (a) Black (b) White\n",
+    "completion": "(b) White",
+    "solution": "(b) White",
+    "image_path": "dataset/mmvp/MMVP Images/262.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is it a slice of cake or a whole cake in the picture?\nOptions: (a) Slice (b) Whole\n",
+    "completion": "(a) Slice",
+    "solution": "(a) Slice",
+    "image_path": "dataset/mmvp/MMVP Images/263.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is it a slice of cake or a whole cake in the picture?\nOptions: (a) Slice (b) Whole\n",
+    "completion": "(b) Whole",
+    "solution": "(b) Whole",
+    "image_path": "dataset/mmvp/MMVP Images/264.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the shoe in the image tied or untied?\nOptions: (a) Tied (b) Untied\n",
+    "completion": "(a) Tied",
+    "solution": "(a) Tied",
+    "image_path": "dataset/mmvp/MMVP Images/265.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the shoe in the image tied or untied?\nOptions: (a) Tied (b) Untied\n",
+    "completion": "(b) Untied",
+    "solution": "(b) Untied",
+    "image_path": "dataset/mmvp/MMVP Images/266.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the child in the picture facing forward or in profile?\nOptions: (a) Facing forward (b) In profile\n",
+    "completion": "(a) Facing forward",
+    "solution": "(a) Facing forward",
+    "image_path": "dataset/mmvp/MMVP Images/267.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the child in the picture facing forward or in profile?\nOptions: (a) Facing forward (b) In profile\n",
+    "completion": "(b) In profile",
+    "solution": "(b) In profile",
+    "image_path": "dataset/mmvp/MMVP Images/268.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the wall behind the bed empty or is there a painting hanging on it?\nOptions: (a) Empty (b) A painting hanging on it\n",
+    "completion": "(a) Empty",
+    "solution": "(a) Empty",
+    "image_path": "dataset/mmvp/MMVP Images/269.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the wall behind the bed empty or is there a painting hanging on it?\nOptions: (a) Empty (b) A painting hanging on it\n",
+    "completion": "(b) A painting hanging on it",
+    "solution": "(b) A painting hanging on it",
+    "image_path": "dataset/mmvp/MMVP Images/270.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the male in the picture wearing a shirt or a T-shirt?\nOptions: (a) Shirt (b) T-shirt\n",
+    "completion": "(a) Shirt",
+    "solution": "(a) Shirt",
+    "image_path": "dataset/mmvp/MMVP Images/271.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the male in the picture wearing a shirt or a T-shirt?\nOptions: (a) Shirt (b) T-shirt\n",
+    "completion": "(b) T-shirt",
+    "solution": "(b) T-shirt",
+    "image_path": "dataset/mmvp/MMVP Images/272.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: What pattern is in the picture?\nOptions: (a) Pumpkin Lights (b) Bats\n",
+    "completion": "(a) Pumpkin Lights",
+    "solution": "(a) Pumpkin Lights",
+    "image_path": "dataset/mmvp/MMVP Images/273.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: What pattern is in the picture?\nOptions: (a) Pumpkin Lights (b) Bats\n",
+    "completion": "(b) Bats",
+    "solution": "(b) Bats",
+    "image_path": "dataset/mmvp/MMVP Images/274.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: How many trees are the treehouse built on?\nOptions: (a) One (b) More than one\n",
+    "completion": "(a) One",
+    "solution": "(a) One",
+    "image_path": "dataset/mmvp/MMVP Images/275.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: How many trees are the treehouse built on?\nOptions: (a) One (b) More than one\n",
+    "completion": "(b) More than one",
+    "solution": "(b) More than one",
+    "image_path": "dataset/mmvp/MMVP Images/276.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: What are all the letter in the image?\nOptions: (a) SUGAR (b) UGA\n",
+    "completion": "(a) SUGAR",
+    "solution": "(a) SUGAR",
+    "image_path": "dataset/mmvp/MMVP Images/277.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: What are all the letter in the image?\nOptions: (a) SUGAR (b) UGA\n",
+    "completion": "(b) UGA",
+    "solution": "(b) UGA",
+    "image_path": "dataset/mmvp/MMVP Images/278.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the elderly person standing or sitting in the picture?\nOptions: (a) Standing (b) Sitting\n",
+    "completion": "(a) Standing",
+    "solution": "(a) Standing",
+    "image_path": "dataset/mmvp/MMVP Images/279.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the elderly person standing or sitting in the picture?\nOptions: (a) Standing (b) Sitting\n",
+    "completion": "(b) Sitting",
+    "solution": "(b) Sitting",
+    "image_path": "dataset/mmvp/MMVP Images/280.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are there drinks on the table?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/281.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are there drinks on the table?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/282.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the image, is it a salmon fillet or a salmon steak?\nOptions: (a) Salmon fillet (b) Salmon steak\n",
+    "completion": "(a) Salmon fillet",
+    "solution": "(a) Salmon fillet",
+    "image_path": "dataset/mmvp/MMVP Images/283.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: In the image, is it a salmon fillet or a salmon steak?\nOptions: (a) Salmon fillet (b) Salmon steak\n",
+    "completion": "(b) Salmon steak",
+    "solution": "(b) Salmon steak",
+    "image_path": "dataset/mmvp/MMVP Images/284.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Do you see a yellow towel in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/285.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Do you see a yellow towel in the image?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/286.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the cup placed on a surface or being held by hand?\nOptions: (a) Placed on a surface (b) Held by hand\n",
+    "completion": "(a) Placed on a surface",
+    "solution": "(a) Placed on a surface",
+    "image_path": "dataset/mmvp/MMVP Images/287.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the cup placed on a surface or being held by hand?\nOptions: (a) Placed on a surface (b) Held by hand\n",
+    "completion": "(b) Held by hand",
+    "solution": "(b) Held by hand",
+    "image_path": "dataset/mmvp/MMVP Images/288.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the following statement correct: There are different colors of grapes in the image.\nOptions: (a) Correct (b) Incorrect\n",
+    "completion": "(a) Correct",
+    "solution": "(a) Correct",
+    "image_path": "dataset/mmvp/MMVP Images/289.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the following statement correct: There are different colors of grapes in the image.\nOptions: (a) Correct (b) Incorrect\n",
+    "completion": "(b) Incorrect",
+    "solution": "(b) Incorrect",
+    "image_path": "dataset/mmvp/MMVP Images/290.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the minion in the image smiling with its tongue out?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/291.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the minion in the image smiling with its tongue out?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/292.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the sports car in the picture facing left or right?\nOptions: (a) Left (b) Right\n",
+    "completion": "(a) Left",
+    "solution": "(a) Left",
+    "image_path": "dataset/mmvp/MMVP Images/293.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the sports car in the picture facing left or right?\nOptions: (a) Left (b) Right\n",
+    "completion": "(b) Right",
+    "solution": "(b) Right",
+    "image_path": "dataset/mmvp/MMVP Images/294.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the edge of the heart in the picture white or dark-colored?\nOptions: (a) White (b) Dark-colored\n",
+    "completion": "(a) White",
+    "solution": "(a) White",
+    "image_path": "dataset/mmvp/MMVP Images/295.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Is the edge of the heart in the picture white or dark-colored?\nOptions: (a) White (b) Dark-colored\n",
+    "completion": "(b) Dark-colored",
+    "solution": "(b) Dark-colored",
+    "image_path": "dataset/mmvp/MMVP Images/296.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are there patterns on the easter eggs?\nOptions: (a) Yes (b) No\n",
+    "completion": "(a) Yes",
+    "solution": "(a) Yes",
+    "image_path": "dataset/mmvp/MMVP Images/297.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: Are there patterns on the easter eggs?\nOptions: (a) Yes (b) No\n",
+    "completion": "(b) No",
+    "solution": "(b) No",
+    "image_path": "dataset/mmvp/MMVP Images/298.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: How would you describe the background of the image?\nOptions: (a) Light shining through the clouds from the upper right corner (b) Most of the background is dark and cloudy\n",
+    "completion": "(a) Light shining through the clouds from the upper right corner",
+    "solution": "(a) Light shining through the clouds from the upper right corner",
+    "image_path": "dataset/mmvp/MMVP Images/299.jpg"
+  },
+  {
+    "prompt": "Solve the problem with proper reasoning, and make sure to put the FINAL CHOICE inside \\boxed{}. \\n Question: How would you describe the background of the image?\nOptions: (a) Light shining through the clouds from the upper right corner (b) Most of the background is dark and cloudy\n",
+    "completion": "(b) Most of the background is dark and cloudy",
+    "solution": "(b) Most of the background is dark and cloudy",
+    "image_path": "dataset/mmvp/MMVP Images/300.jpg"
+  }
+]
