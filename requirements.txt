@@ -1,0 +1,13 @@
+torch
+transformers
+numpy
+datasets
+tqdm
+Pillow
+openai
+pydantic
+termcolor
+colorama
+qwen-vl-utils
+accelerate
+
